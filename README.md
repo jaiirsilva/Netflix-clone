@@ -4,8 +4,8 @@
 ![demo](https://user-images.githubusercontent.com/60372066/110250351-a01cf000-7f59-11eb-82c7-3743467ec945.png)
 
 ### About:
-  Projeto que consiste no clone de uma page da Netflix, com utilização de HTML e CSS, uso do JQuery para implementação do carrosel de filmes. Foi adicionado um botão de login além do desafio proposto pela Digital Innovation One.
-
+  Projeto que consiste no clone de uma page da Netflix, com utilização de HTML e CSS, uso do JQuery para implementação do carrosel de filmes.
+  
 ### Getting Start:
 1. Clone repository:
 ``` 
