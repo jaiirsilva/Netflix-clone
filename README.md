@@ -6,14 +6,22 @@ Print do projeto:
 About:
   Projeto que consiste no clone de uma page da Netflix, com utilização de HTML e CSS, uso do JQuery para implementação do carrosel de filmes. Foi adicionado um botão de login além do desafio proposto pela Digital Innovation One.
 
-Tech Stacks:
+### Getting Start:
+1. Clone repository:
+> git clone https://github.com/jaiirsilva/Netflix-clone.git 
+2. Install dependencies: 
+> npm install
+3. Run the project on your local machine: 
+> npm start
+
+### Tech Stacks:
   * HTML
   * CSS
   * JavaScript
   * Jquery
   
   
-Material de apoio:
+### Material de apoio:
   * [Documentação e guias](https://developer.mozilla.org/pt-BR/)
   * [Fontes](https://fontawesome.com/)
   * [HTML e CSS](https://www.w3schools.com/)
