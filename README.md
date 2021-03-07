@@ -8,7 +8,9 @@
 
 ### Getting Start:
 1. Clone repository:
-> git clone https://github.com/jaiirsilva/Netflix-clone.git 
+``` 
+git clone https://github.com/jaiirsilva/Netflix-clone.git
+```
 2. Install dependencies: 
 > npm install
 3. Run the project on your local machine: 
